@@ -1,0 +1,8 @@
+Django
+django-ckeditor
+django-js-asset
+Pillow
+python-dotenv==0.21.0
+pytils==0.4.1
+pytz==2022.2.1
+sqlparse==0.4.2

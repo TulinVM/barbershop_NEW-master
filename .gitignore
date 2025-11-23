@@ -1,0 +1,9 @@
+Старый проект/
+.idea/
+barbervenv/
+polezno.txt
+readme.txt
+static/js/popup_old.js
+templates/include/pagination_old.html
+.env
+db.sqlite3
