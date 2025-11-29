@@ -27,7 +27,7 @@ SECRET_KEY = 'geby1jb%*$pxhswi2qp3o1!h*#)@_wpzjd*b^p-wt=2i3p%@e-'
 #os.environ.get('SECRET_KEY', 'this_is_my_secret_key')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False #True 
+DEBUG = True #False #True 
 #os.environ.get('DEBUG', True)
 
 ALLOWED_HOSTS = ['127.0.0.1']
