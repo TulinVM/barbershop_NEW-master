@@ -1,4 +1,4 @@
-Старый проект/
+пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ/
 .idea/
 barbervenv/
 polezno.txt
@@ -7,3 +7,4 @@ static/js/popup_old.js
 templates/include/pagination_old.html
 .env
 db.sqlite3
+venv
